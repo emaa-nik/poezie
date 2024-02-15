@@ -9,7 +9,7 @@ poezie pentru clasa
 	Somnoroase pasarele
 Pe la cuiburi se aduna, <br>
 Se ascund în ramurele -<br>
-Noapte buna!.<br>
+Noapte buna!.<br> <br><br><br><br><br><br><br>
 
 Doar izvoarele suspina<br>
 Pe când codrul negru tace;<br>
